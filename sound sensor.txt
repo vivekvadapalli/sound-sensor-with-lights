@@ -1,0 +1,18 @@
+sound sensor using arduino
+
+Sound sensors can be used for a variety of things, one of them could be turning lights off and on by clapping. 
+Today however we are going to use hook up the sound sensor to an array of LED lights which will beat with music, clapping or knocking.
+
+For this project the above components are required.
+
+- Arduino
+- Sound sensor
+- Relay 5v Dc
+- LED bulb
+- Battery 5v
+- Power supply
+ 
+Connections:-
+// Arduino power-(5v) to Sound sensor.
+// Arduino power-(5v) to Relay-(vcc).
+// 
