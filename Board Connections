@@ -1,0 +1,10 @@
+Connections:-
+// Arduino power (5v) to Sound sensor.
+// Arduino power (5v) to Relay-(vcc).
+// Arduino power (Gnd) to Sound Sensor(Gnd).
+// Arduino power (Gnd) to Relay(Gnd).
+// Arduino digital (4) to Sound Sensor(D0).
+// Arduino digital (5) to Relay(IN).
+// Relay (NO) to Power Supply(AC).
+// Relay (COM) to Bulb.
+// Bulb to Power Supply.
